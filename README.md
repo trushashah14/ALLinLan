@@ -15,4 +15,4 @@ Internet Connection in one Network and it is also secure as data sent within the
 network cannot be accessible to the persons outside the network.
 
 
-To execute run the executable file provided in dist folder
+To execute run the executable file provided in ALLinLANexe folder
