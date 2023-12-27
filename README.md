@@ -16,3 +16,6 @@ network cannot be accessible to the persons outside the network.
 
 
 To execute run the executable file provided in ALLinLANexe folder
+
+Refer to this usermanual:
+[AllinLAN-User Manual.pdf](https://github.com/trushashah14/ALLinLan/files/13777825/AllinLAN-User.Manual.pdf)
